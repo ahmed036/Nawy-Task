@@ -1,0 +1,16 @@
+{
+  "name": "playwright-project",
+  "version": "1.0.0",
+  "description": "A Playwright project for testing user login and product purchase functionality on a demo e-commerce website.",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.0.0"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
